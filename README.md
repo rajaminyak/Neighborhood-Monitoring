@@ -1,2 +1,2 @@
 # Neighborhood-Monitoring
-To monitor thief in my neighborhood
+To monitor empty house while the owner is away so neighbors could help to prevent thief
